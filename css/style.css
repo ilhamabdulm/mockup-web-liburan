@@ -1,0 +1,74 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+section{
+    margin-bottom: 8vh;
+}
+
+section nav{
+    margin: 2vh 2vh 0 0;
+}
+
+.navbar{
+    background-color: white !important;
+}
+
+section .link a{
+    background: transparent;
+    color: grey !important;
+    font-weight: 900;
+}
+
+.right-col{
+    background-image: url(../assets/img/piqsels.com-id-stdyt.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+.row,
+.col{
+    height: 100%;
+}
+
+.login-btn{
+    margin-right: 30px; 
+    margin-top: 30px;
+    float: right; 
+    width: 15vh;
+    background-color: white !important;
+    color: #5FAD27;
+    font-size: 16px;
+    font-weight: 800;
+}
+
+.box-content{
+    margin: 6vh 0 6vh 4vh;
+}
+
+.box-content span{
+    color: #5FAD27;
+    font-weight: 800;
+}
+
+.box-content button{
+    background-color: #5FAD27 !important;
+    color: white;
+    border: white;
+    padding: 1vh 5vh;
+}
+
+.box-content .caption{
+    color: grey;
+}
+.box-content h6{
+    font-weight: 800;
+}
+
+.box-content img{
+    max-width: 100px;
+    max-height: 100px;
+    margin-bottom: 2vh;
+}
